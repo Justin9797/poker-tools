@@ -2,6 +2,16 @@
 
 A collection of free poker tools for learning strategy and making better decisions.
 
+Built with modern web technologies (Next.js) to help poker players make better decisions.
+
+---
+
+## 🚀 How to use
+
+Open any tool below and input your game scenario to get instant calculations.
+
+---
+
 ## 🔧 Tools
 
 ### 1. Pot Odds Calculator
@@ -49,7 +59,7 @@ https://pokershuyuan.com
 
 ## 📌 About
 
-This project is built to help poker players better understand math, strategy, and decision-making.
+This project provides practical poker tools to support real in-game decisions.
 
 Still improving — feedback is welcome!
 
