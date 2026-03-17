@@ -1,66 +1,32 @@
-# Poker Tools
+# 扑克工具 Poker Tools
 
-A collection of free poker tools for learning strategy and making better decisions.
+一套免费的德州扑克工具，帮助你更好地理解策略并做出决策。
 
-Built with modern web technologies (Next.js) to help poker players make better decisions.
-
----
-
-## 🚀 How to use
-
-Open any tool below and input your game scenario to get instant calculations.
+Free poker tools for strategy and decision-making.
 
 ---
 
-## 🔧 Tools
+## 🔧 工具列表
 
-### 1. Pot Odds Calculator
-Calculate pot odds and break-even percentages.  
+### 1. 底池赔率计算器 (Pot Odds Calculator)
 👉 https://pokershuyuan.com/tools/pot-odds-calculator
 
----
-
-### 2. Win Rate Calculator
-Estimate hand or range equity on the board.  
+### 2. 胜率计算器 (Win Rate Calculator)
 👉 https://pokershuyuan.com/tools/win-rate-calculator
 
----
-
-### 3. EV Calculator
-Calculate expected value to assist call/fold decisions.  
+### 3. EV 计算器 (EV Calculator)
 👉 https://pokershuyuan.com/tools/ev-calculator
 
 ---
 
-### 4. Outs Calculator
-Convert outs into winning probabilities (turn/river).  
-👉 https://pokershuyuan.com/tools/outs-calculator
+## 🌐 网站
 
----
-
-### 5. SPR Calculator
-Stack-to-pot ratio analysis for commitment decisions.  
-👉 https://pokershuyuan.com/tools/spr-calculator
-
----
-
-### 6. Preflop Range Chart
-Reference ranges for open, 3-bet, and cold calls.  
-👉 https://pokershuyuan.com/tools/preflop-range
-
----
-
-## 🌐 Website
-
-Main site:  
 https://pokershuyuan.com
 
 ---
 
-## 📌 About
+## 📌 关于
 
-This project provides practical poker tools to support real in-game decisions.
+本项目旨在帮助玩家理解扑克数学与策略决策。
 
-Still improving — feedback is welcome!
-
-⭐ If you find this useful, feel free to star the repo!
+⭐ 如果有帮助欢迎 star
